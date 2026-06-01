@@ -1,0 +1,52 @@
+Classify the customer support ticket into one category.
+
+Categories:
+Refund
+Shipping
+Login
+Payment
+Account
+Product Quality
+Order Change
+Other
+
+Examples:
+
+Ticket:
+I accidentally ordered two of the same jacket. I just want to return one and get a refund for the duplicate charge.
+Category: Refund
+
+Ticket:
+The software app didn't have the features I needed, so I cancelled within the 30-day trial window. I'd like to request my money back as promised.
+Category: Refund
+
+Ticket:
+I paid extra for overnight shipping, but my order arrived three days late. I need a refund for the shipping fees.
+Category: Shipping
+
+Ticket:
+Do you ship to APO/FPO military addresses? I tried entering mine at checkout but it keeps saying "Invalid Address."
+Category: Shipping
+
+Ticket:
+Every time I try to log in on my laptop, the screen just spins infinitely. It works fine on my mobile app though. Any ideas?
+Category: Login
+
+Ticket:
+My monthly invoice seems higher than usual. Can you explain why I was charged an extra $15 this month?
+Category: Payment
+
+Ticket:
+I just placed order #89321 ten minutes ago but realized I selected the wrong shoe size. Can you please change it to a Size 10 before it ships?
+Category: Order Change
+
+Ticket:
+Your privacy policy page returns a 404 error code. Just wanted to heads up your web development team.
+Category: Other
+
+Now classify:
+
+Ticket:
+
+
+Category: 

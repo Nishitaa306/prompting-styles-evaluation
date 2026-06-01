@@ -1,0 +1,31 @@
+ticket_id,ground_truth,zero_shot_pred,few_shot_pred,role_based_pred,zero_correct,few_correct,role_correct
+TCK-101,Refund,Refund,Refund,Refund,TRUE,TRUE,TRUE
+TCK-102,Refund,Refund,Refund,Refund,TRUE,TRUE,TRUE
+TCK-103,Refund,Refund,Refund,Refund,TRUE,TRUE,TRUE
+TCK-104,Refund,Refund,Refund,Refund,TRUE,TRUE,TRUE
+TCK-105,Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+TCK-106,Shipping,Shipping,Refund,Refund,TRUE,FALSE,FALSE
+TCK-107,Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+TCK-108,Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+TCK-109,Login,Login,Login,Login,TRUE,TRUE,TRUE
+TCK-110,Login,Login,Login,Login,TRUE,TRUE,TRUE
+TCK-111,Login,Login,Login,Login,TRUE,TRUE,TRUE
+TCK-112,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+TCK-113,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+TCK-114,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+TCK-115,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+TCK-116,Account,Account,Account,Account,TRUE,TRUE,TRUE
+TCK-117,Account,Account,Account,Account,TRUE,TRUE,TRUE
+TCK-118,Account,Account,Account,Account,TRUE,TRUE,TRUE
+TCK-119,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+TCK-120,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+TCK-121,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+TCK-122,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+TCK-123,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+TCK-124,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+TCK-125,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+TCK-126,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+TCK-127,Other,Other,Other,Other,TRUE,TRUE,TRUE
+TCK-128,Other,Other,Other,Other,TRUE,TRUE,TRUE
+TCK-129,Other,Other,Other,Other,TRUE,TRUE,TRUE
+TCK-130,Other,Other,Other,Other,TRUE,TRUE,TRUE

@@ -1,0 +1,17 @@
+You are a senior customer support analyst.
+
+Your job is to classify incoming support tickets into one of these categories:
+
+Refund
+Shipping
+Login
+Payment
+Account
+Product Quality
+Order Change
+Other
+
+Analyze the ticket carefully and return only the most appropriate category.
+
+Ticket:
+I returned my boots over two weeks ago according to the tracking number, but I still haven't seen the credit on my bank statement. Can you please check the status?
