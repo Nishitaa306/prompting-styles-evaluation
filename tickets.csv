@@ -1,0 +1,31 @@
+Ticket ID,Category,Ticket Text
+TCK-101,Refund,"I returned my boots over two weeks ago according to the tracking number, but I still haven't seen the credit on my bank statement. Can you please check the status?"
+TCK-102,Refund,I accidentally ordered two of the same jacket. I just want to return one and get a refund for the duplicate charge.
+TCK-103,Refund,"The software app didn't have the features I needed, so I cancelled within the 30-day trial window. I'd like to request my money back as promised."
+TCK-104,Refund,My subscription auto-renewed today without warning. I haven't used the service in months and want a full refund for this latest charge.
+TCK-105,Shipping,"My tracking status has been stuck on ""In Transit"" in Chicago for five days now. Is my package lost?"
+TCK-106,Shipping,"I paid extra for overnight shipping, but my order arrived three days late. I need a refund for the shipping fees."
+TCK-107,Shipping,"The courier marked my package as ""Delivered"" this afternoon, but I’ve checked my porch, mailbox, and neighbors, and it’s nowhere to be found."
+TCK-108,Shipping,"Do you ship to APO/FPO military addresses? I tried entering mine at checkout but it keeps saying ""Invalid Address."""
+TCK-109,Login,"I am trying to log in but keep getting a ""Password incorrect"" error. When I click ""Forgot Password,"" the reset email never arrives in my inbox or spam."
+TCK-110,Login,"My account has two-factor authentication enabled, but I lost my old phone and can't access my authenticator app to log in. Help!"
+TCK-111,Login,"Every time I try to log in on my laptop, the screen just spins infinitely. It works fine on my mobile app though. Any ideas?"
+TCK-112,Payment,"I tried placing an order three times and kept getting an error, but now I see three pending charges on my credit card. Please reverse them!"
+TCK-113,Payment,"I am trying to use a valid promotional discount code at checkout, but the system keeps saying ""Code expired"" even though the promo ends tomorrow."
+TCK-114,Payment,"Do you accept Apple Pay or PayPal? I don't see the options on your checkout page, only standard credit cards."
+TCK-115,Payment,My monthly invoice seems higher than usual. Can you explain why I was charged an extra $15 this month?
+TCK-116,Account,I need to change the primary email address associated with my account from my old work email to my personal one.
+TCK-117,Account,Please delete my account and all associated personal data from your systems permanently in compliance with GDPR.
+TCK-118,Account,"My account has been locked due to ""suspicious activity,"" but I was just traveling abroad. How do I unlock it?"
+TCK-119,Product Quality,The espresso machine I bought last month has started leaking water from the bottom every time I brew a cup.
+TCK-120,Product Quality,"I ordered the white ceramic vase, but it arrived with a huge crack down the side. The shipping box was completely dented too."
+TCK-121,Product Quality,The seams on the yoga pants I bought last week are already unraveling after just one gentle wash.
+TCK-122,Product Quality,The laptop charger gets extremely hot to the touch within 10 minutes of plugging it in. I'm worried it's a fire hazard.
+TCK-123,Order Change,I just placed order #89321 ten minutes ago but realized I selected the wrong shoe size. Can you please change it to a Size 10 before it ships?
+TCK-124,Order Change,I accidentally put my old apartment number on the shipping address for my current order. Can someone update it to Apartment 4B?
+TCK-125,Order Change,I need to cancel my order entirely. I found the item cheaper elsewhere and it hasn't shipped yet.
+TCK-126,Order Change,Is it possible to add one more item to my existing order so I don't have to pay for shipping twice?
+TCK-127,Other,"Hi, I'm interested in buying your software for my whole team of 50 people. Do you offer corporate volume discounts?"
+TCK-128,Other,I am a social media influencer and would love to collaborate with your brand. Who is the best person to contact in your marketing department?
+TCK-129,Other,Your privacy policy page returns a 404 error code. Just wanted to heads up your web development team.
+TCK-130,Other,Do you know when the midnight black headphones will be back in stock? They've been sold out for weeks.
