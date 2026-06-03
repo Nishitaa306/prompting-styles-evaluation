@@ -1,0 +1,40 @@
+```json
+{
+  "source_language": "English",
+  "target_language": "Spanish",
+  "original_text": "Unlock unparalleled productivity with our **newest AI Assistant**. Experience seamless workflows and intelligent insights designed to elevate your business. *Limited-time offer!* Get started today and transform your enterprise. [Learn More](https://example.com/ai-assistant)"
+}
+```
+
+**Output:**
+```json
+{
+  "source_language": "English",
+  "target_language": "Spanish",
+  "original_text": "Unlock unparalleled productivity with our **newest AI Assistant**. Experience seamless workflows and intelligent insights designed to elevate your business. *Limited-time offer!* Get started today and transform your enterprise. [Learn More](https://example.com/ai-assistant)",
+  "translated_text": "Libere una productividad sin igual con nuestro **último Asistente de IA**. Experimente flujos de trabajo fluidos y conocimientos inteligentes diseñados para potenciar su negocio. *¡Oferta por tiempo limitado!* Empiece hoy y transforme su empresa. [Más información](https://example.com/ai-assistant)",
+  "localization_notes": ""
+}
+```
+
+**Example 2: Slogan/Tagline with Cultural Nuance**
+
+**Input:**
+```json
+{
+  "source_language": "English",
+  "target_language": "German",
+  "original_text": "Our coffee: A hug in a mug."
+}
+```
+
+**Output:**
+```json
+{
+  "source_language": "English",
+  "target_language": "German",
+  "original_text": "Our coffee: A hug in a mug.",
+  "translated_text": "Unser Kaffee: Ein Genuss für die Seele.",
+  "localization_notes": "The literal translation 'Umarmung in einer Tasse' does not carry the same emotional warmth and comfort in German. 'Ein Genuss für die Seele' (A treat for the soul) conveys a similar comforting and enjoyable feeling culturally appropriate for German speakers."
+}
+```

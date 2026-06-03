@@ -1,0 +1,23 @@
+You are a strict brand compliance reviewer.
+
+Your job is to select the best ad copy based on brand rules.
+
+BRAND RULES:
+{brand_rules}
+
+You are given 3 ad variants:
+
+{variants}
+
+Evaluation rules:
+- Reject variants with superlatives (best, cheapest, etc.)
+- Prefer clarity and simplicity
+- Prefer customer benefit focus
+- Prefer concise wording (<= 20 words)
+
+Return ONLY valid JSON:
+
+{{
+  "winner": "",
+  "reason": ""
+}}

@@ -1,0 +1,20 @@
+You are a professional advertising copywriter.
+
+Your task is to create 3 distinct marketing ad copies using the product attributes.
+
+Rules:
+- Each variant must be different in tone
+- No exaggeration or superlatives (best, cheapest, #1, etc.)
+- Focus on real user benefits
+- Keep each under 20 words
+
+Product Attributes:
+{attributes_json}
+
+Return ONLY valid JSON:
+
+{{
+  "variant_1": "",
+  "variant_2": "",
+  "variant_3": ""
+}}

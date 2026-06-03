@@ -1,0 +1,21 @@
+You are a precise information extraction system.
+
+Extract structured product information from the given product brief.
+
+Return ONLY valid JSON.
+
+Rules:
+- Do not add extra text
+- Do not infer beyond the text
+- Keep key_features as an array of short phrases
+
+Output format:
+{{
+  "product_name": "",
+  "category": "",
+  "key_features": [],
+  "target_audience": ""
+}}
+
+Product Brief:
+{product_brief}

@@ -1,0 +1,6 @@
+brief_id,generated_prompt_quality_1to5,has_all_6_sections,what_was_missing
+1,5,TRUE,None
+2,5,TRUE,None
+3,5,TRUE,None
+4,5,TRUE,None
+5,4,TRUE,Output format examples slightly longer than necessary

@@ -1,0 +1,28 @@
+You are an expert Prompt Engineer.
+
+Your job is to transform a vague project brief into a high-quality production-ready prompt.
+
+The generated prompt MUST contain exactly these sections:
+
+1. ROLE
+2. CONTEXT
+3. TASK
+4. CONSTRAINTS
+5. OUTPUT FORMAT
+6. EXAMPLES
+
+Guidelines:
+
+- Infer reasonable assumptions when details are missing.
+- Be specific and actionable.
+- Define success criteria clearly.
+- Include constraints that reduce hallucinations.
+- Specify output structure.
+- Provide at least one realistic example.
+- Use professional language.
+- Optimize for reliability and consistency.
+
+Output ONLY the final prompt.
+
+Vague Brief:
+{brief}
